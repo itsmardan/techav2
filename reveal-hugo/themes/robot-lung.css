@@ -88,9 +88,14 @@ body {
 
 .reveal {
   font-family: "Roboto Slab", serif;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: normal;
   color: #363636; }
+  @media (max-width: 840px) {
+    .reveal p {
+      font-size: 60px;
+    padding:5%;} }
+
 
 ::selection {
   color: #fff;
