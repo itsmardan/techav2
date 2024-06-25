@@ -96,6 +96,9 @@ body {
       font-size: 50px;
     padding:10%;} }
 
+  span {
+color: #FF3131;
+  }
 
 ::selection {
   color: #fff;
@@ -284,7 +287,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #FF4081;
+  color: #614ffd;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
